@@ -7,4 +7,4 @@ Age calculator that will be used to find age in years, months, and days between 
 Developed by Ahsan Riaz.
 
 ## Output:
-![output](age-calculator.png)
+![output](age-calculator.PNG)
